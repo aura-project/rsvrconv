@@ -1,22 +1,4 @@
 #################
-## Aura
-#################
-
-/log/
-/cache/
-
-/user/conf/*
-!/user/conf/database-example.conf
-
-/user/db/*
-!/user/db/races-example.txt
-
-/user/scripts/*
-!/user/scripts/scripts_custom-example.txt
-
-/web/ui/storage/*
-
-#################
 ## Visual Studio
 #################
 
